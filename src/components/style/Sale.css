@@ -1,0 +1,42 @@
+h1{
+    font-family: Cursive;
+    
+}
+.sale-form{
+    background-color: #a892ee;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(189, 182, 182, 0.25);
+    
+}
+
+.select{
+ font: inherit;
+  cursor: pointer;
+  padding: 0.2rem 1rem;
+  border: 1px solid #40005d;
+  background-color: #40005d;
+  color: white;
+  border-radius: 15px;
+  margin-right: 1rem;
+}
+
+.select:hover,
+.select:active {
+  background-color: #510674;
+  border-color: #510674;
+}
+
+
+.input {
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(201, 199, 212, 0.25);
+    padding: 0.2rem;
+    margin: 1rem 0;
+    border-radius: 12px;
+    background-color: #e8e6eb;
+}
